@@ -19,9 +19,9 @@ Un ejemplo de este árbol para un fichero sin errores es el siguiente
 ## Compilador de un lenguaje de programación
 Dentro del código se pueden encontrar ficheros .py que nos permiten realizar las sigueintes acciones:
 <ul>
-<li>`anasem.py`: realiza el análisis semántico y nos devuelte un árbol con las instrucciones del programa pasado por parámetro </li>
-<li>`anasint.py`: comprueba que el programa pasado sigue unas reglas de sintaxis definidas en una gramática </li>
-<li>`anasem.py`: obtiene las categorías léxicas de un programa pasado por parámetro</li>
+<li>anasem.py: realiza el análisis semántico y nos devuelte un árbol con las instrucciones del programa pasado por parámetro </li>
+<li>anasint.py: comprueba que el programa pasado sigue unas reglas de sintaxis definidas en una gramática </li>
+<li>anasem.py: obtiene las categorías léxicas de un programa pasado por parámetro</li>
 
 </ul><br><br>
 El procedimiento seguido y demás detalles acerca del lenguaje se pueden encontrar en `docs\memoria.pdf`
