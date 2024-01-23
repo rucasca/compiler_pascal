@@ -1,0 +1,13 @@
+PROGRAMA p1;
+VAR i:ENTERO;z:BOOLEANO;
+INICIO
+	x:=0.0;
+	MIENTRAS (i<>5) HACER
+		INICIO
+		x:=i*4;
+		ESCRIBE(x);
+		FIN;
+	INICIO
+		SI (i < 0) ENTONCES LEE (i) SINO z:=(i O FALSO);
+	FIN;
+FIN.
