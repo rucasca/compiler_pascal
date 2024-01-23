@@ -1,5 +1,5 @@
 # Analizador de ficheros
-Este proyecto permite 
+Este proyecto permite transformar los ficheros de un lenguaje inventado, siendo muy similar a Pascal pero presentando diversos cambios como el uso de palabras reservadas en español, a otros lenguajes de programación, obteniendo el ATS y evaluando sintácticamente, léxicamente y semánticamente ficheros pasados por parámetro. 
 
 
 ## Estructura del lenguaje
@@ -14,7 +14,7 @@ Por último las reglas semánticas del lenguaje se ven definidas en el pdf.
 Como resultado final, se obtiene un arbol de la descomposición de instrucciones del código, que pueden ser convertidos a otros lenguajes de programación.
 Un ejemplo de este árbol para un fichero sin errores es el siguiente
 
-![Arbol resultado](./figs/resultado.png)
+![Arbol resultado](./figs/result.png)
 
 ## Compilador de un lenguaje de programación
 Dentro del código se pueden encontrar ficheros .py que nos permiten realizar las sigueintes acciones:
